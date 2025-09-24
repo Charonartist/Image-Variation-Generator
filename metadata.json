@@ -1,0 +1,5 @@
+{
+  "name": "画像バリエーションジェネレーター (Image Variation Generator)",
+  "description": "1枚の画像から、さまざまなポーズや表情の差分画像を20枚生成します。画像をドラッグ＆ドロップするだけで、AIが新しいバリエーションを瞬時に作成します。(Generates 20 variation images with different poses and expressions from a single image. Just drag and drop an image, and the AI will instantly create new variations.)",
+  "requestFramePermissions": []
+}
